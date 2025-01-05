@@ -1,6 +1,7 @@
 # Javascript Visualizer
 
 **A web application that allows users to view their math-like JavaScript code snippets.**  
+![screenshot](screenshot.png)
 
 ---
 

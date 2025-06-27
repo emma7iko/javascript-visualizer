@@ -26,7 +26,7 @@ This project is organized as follows:
 
 1. **Clone the Repository**:  
    ```bash  
-   git clone https://github.com/Emmatiko101/javascript-visualizer.git  
+   git clone https://github.com/emma7iko/javascript-visualizer.git  
    ```  
 
 2. **Navigate to the Project Directory**:  
